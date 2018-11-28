@@ -1,0 +1,102 @@
+c:\users\patricxmg\documents\visual studio 2010\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\patricxmg\documents\visual studio 2010\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.Form1.resources
+c:\users\patricxmg\documents\visual studio 2010\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\patricxmg\documents\visual studio 2010\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Patricxmg\Documents\Visual Studio 2010\Projects\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\ZedGraph.dll
+C:\Users\Patricxmg\Documents\Visual Studio 2010\Projects\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\ZedGraph.xml
+C:\Users\Patricxmg\Documents\Visual Studio 2010\Projects\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\Patricxmg\Documents\Visual Studio 2010\Projects\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\Patricxmg\Documents\Visual Studio 2010\Projects\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\Patricxmg\Documents\Visual Studio 2010\Projects\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\Patricxmg\Documents\Visual Studio 2010\Projects\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\Patricxmg\Documents\Visual Studio 2010\Projects\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\Patricxmg\Documents\Visual Studio 2010\Projects\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\Patricxmg\Documents\Visual Studio 2010\Projects\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\Patricxmg\Documents\Visual Studio 2010\Projects\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\Patricxmg\Documents\Visual Studio 2010\Projects\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\Patricxmg\Documents\Visual Studio 2010\Projects\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\Patricxmg\Documents\Visual Studio 2010\Projects\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\Patricxmg\Documents\Visual Studio 2010\Projects\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\Patricxmg\documents\visual studio 2010\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.UserControl1.resources
+C:\Users\Patricxmg\Documents\Visual Studio 2010\Projects\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\netIO.exe
+C:\Users\Patricxmg\Documents\Visual Studio 2010\Projects\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\netIO.pdb
+C:\Users\Patricxmg\Documents\Visual Studio 2010\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\netIO.Properties.Resources.resources
+C:\Users\Patricxmg\Documents\Visual Studio 2010\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\netIO.exe
+C:\Users\Patricxmg\Documents\Visual Studio 2010\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\netIO.pdb
+E:\BACKUP win7\Dokumente\Documents\Documents\Visual Studio 2010\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\netIO.exe
+E:\BACKUP win7\Dokumente\Documents\Documents\Visual Studio 2010\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\netIO.pdb
+E:\BACKUP win7\Dokumente\Documents\Documents\Visual Studio 2010\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.csprojResolveAssemblyReference.cache
+E:\BACKUP win7\Dokumente\Documents\Documents\Visual Studio 2010\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.Form1.resources
+E:\BACKUP win7\Dokumente\Documents\Documents\Visual Studio 2010\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\netIO.Properties.Resources.resources
+E:\BACKUP win7\Dokumente\Documents\Documents\Visual Studio 2010\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.UserControl1.resources
+E:\BACKUP win7\Dokumente\Documents\Documents\Visual Studio 2010\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.csproj.GenerateResource.Cache
+C:\Users\patric\Documents\Visual Studio 2013\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\netIO.exe
+C:\Users\patric\Documents\Visual Studio 2013\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\netIO.pdb
+C:\Users\patric\Documents\Visual Studio 2013\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.csprojResolveAssemblyReference.cache
+C:\Users\patric\Documents\Visual Studio 2013\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.Form1.resources
+C:\Users\patric\Documents\Visual Studio 2013\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\netIO.Properties.Resources.resources
+C:\Users\patric\Documents\Visual Studio 2013\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.UserControl1.resources
+C:\Users\patric\Documents\Visual Studio 2013\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.csproj.GenerateResource.Cache
+C:\Users\patric\Documents\Visual Studio 2013\Projects\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\netIO.exe
+C:\Users\patric\Documents\Visual Studio 2013\Projects\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\netIO.pdb
+C:\Users\patric\Documents\Visual Studio 2013\Projects\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\ZedGraph.xml
+C:\Users\patric\Documents\Visual Studio 2013\Projects\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\patric\Documents\Visual Studio 2013\Projects\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\patric\Documents\Visual Studio 2013\Projects\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\patric\Documents\Visual Studio 2013\Projects\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\patric\Documents\Visual Studio 2013\Projects\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\patric\Documents\Visual Studio 2013\Projects\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\patric\Documents\Visual Studio 2013\Projects\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\patric\Documents\Visual Studio 2013\Projects\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\patric\Documents\Visual Studio 2013\Projects\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\patric\Documents\Visual Studio 2013\Projects\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\patric\Documents\Visual Studio 2013\Projects\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\patric\Documents\Visual Studio 2013\Projects\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\patric\Documents\Visual Studio 2013\Projects\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\patric\Google Drive\Visual Studio 2013\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\netIO.exe
+C:\Users\patric\Google Drive\Visual Studio 2013\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\netIO.pdb
+C:\Users\patric\Google Drive\Visual Studio 2013\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.csprojResolveAssemblyReference.cache
+C:\Users\patric\Google Drive\Visual Studio 2013\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.Form1.resources
+C:\Users\patric\Google Drive\Visual Studio 2013\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\netIO.Properties.Resources.resources
+C:\Users\patric\Google Drive\Visual Studio 2013\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.UserControl1.resources
+C:\Users\patric\Google Drive\Visual Studio 2013\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.csproj.GenerateResource.Cache
+C:\Users\patric\Google Drive\Visual Studio 2013\Projects\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\netIO.exe
+C:\Users\patric\Google Drive\Visual Studio 2013\Projects\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\netIO.pdb
+C:\Users\patric\Google Drive\Visual Studio 2013\Projects\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\ZedGraph.xml
+C:\Users\patric\Google Drive\Visual Studio 2013\Projects\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\patric\Google Drive\Visual Studio 2013\Projects\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\patric\Google Drive\Visual Studio 2013\Projects\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\patric\Google Drive\Visual Studio 2013\Projects\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\patric\Google Drive\Visual Studio 2013\Projects\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\patric\Google Drive\Visual Studio 2013\Projects\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\patric\Google Drive\Visual Studio 2013\Projects\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\patric\Google Drive\Visual Studio 2013\Projects\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\patric\Google Drive\Visual Studio 2013\Projects\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\patric\Google Drive\Visual Studio 2013\Projects\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\patric\Google Drive\Visual Studio 2013\Projects\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\patric\Google Drive\Visual Studio 2013\Projects\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\patric\Google Drive\Visual Studio 2013\Projects\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\Patric\Documents\Visual Studio 2017\Projects\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\netIO.exe
+C:\Users\Patric\Documents\Visual Studio 2017\Projects\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\netIO.pdb
+C:\Users\Patric\Documents\Visual Studio 2017\Projects\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\ZedGraph.xml
+C:\Users\Patric\Documents\Visual Studio 2017\Projects\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\Patric\Documents\Visual Studio 2017\Projects\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\Patric\Documents\Visual Studio 2017\Projects\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\Patric\Documents\Visual Studio 2017\Projects\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\Patric\Documents\Visual Studio 2017\Projects\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\Patric\Documents\Visual Studio 2017\Projects\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\Patric\Documents\Visual Studio 2017\Projects\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\Patric\Documents\Visual Studio 2017\Projects\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\Patric\Documents\Visual Studio 2017\Projects\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\Patric\Documents\Visual Studio 2017\Projects\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\Patric\Documents\Visual Studio 2017\Projects\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\Patric\Documents\Visual Studio 2017\Projects\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\Patric\Documents\Visual Studio 2017\Projects\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\Patric\Documents\Visual Studio 2017\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.csprojResolveAssemblyReference.cache
+C:\Users\Patric\Documents\Visual Studio 2017\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.Form1.resources
+C:\Users\Patric\Documents\Visual Studio 2017\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\netIO.Properties.Resources.resources
+C:\Users\Patric\Documents\Visual Studio 2017\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.UserControl1.resources
+C:\Users\Patric\Documents\Visual Studio 2017\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.csproj.GenerateResource.Cache
+C:\Users\Patric\Documents\Visual Studio 2017\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.csproj.CoreCompileInputs.cache
+C:\Users\Patric\Documents\Visual Studio 2017\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\netIO.exe
+C:\Users\Patric\Documents\Visual Studio 2017\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\netIO.pdb
