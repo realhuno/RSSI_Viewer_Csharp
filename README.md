@@ -16,6 +16,6 @@ And the Log Files should look like this
 the first row represend the timing in ms the other 4 the rssi
 
 20,1062,1083,1245,1080
-56,1088,1080,1239,1082
+
 
 keep in mind this is a very very alpa basic version!!
