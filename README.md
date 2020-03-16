@@ -3,6 +3,8 @@
 2020 Version now Online.... 
 just use the 2020 rar because i dont´t now how to update/commit my changes..... whatever
 
+change conf.ini only the serial port working... with chorus API
+
 # RSSI_Viewer_Csharp
 RSSI_Viewer_Csharp
 
