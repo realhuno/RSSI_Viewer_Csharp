@@ -1,3 +1,8 @@
+# RSSI_Viewer_Csharp 2020
+
+2020 Version now Online.... 
+just use the 2020 rar because i dont´t now how to update/commit my changes..... whatever
+
 # RSSI_Viewer_Csharp
 RSSI_Viewer_Csharp
 
