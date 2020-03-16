@@ -6,7 +6,7 @@ just use the 2020 rar because i dont´t now how to update/commit my changes.....
 change conf.ini only the serial port working... with chorus API
 
 # RSSI_Viewer_Csharp
-RSSI_Viewer_Csharp
+<s>RSSI_Viewer_Csharp
 
 First Public Alpha Relase
 You can test this by use the debug10.rar
@@ -22,7 +22,7 @@ r 123 123 123 123\n
 And the Log Files should look like this
 the first row represend the timing in ms the other 4 the rssi
 
-20,1062,1083,1245,1080
+20,1062,1083,1245,1080</s>
 
 
 keep in mind this is a very very alpa basic version!!
